@@ -1,1 +1,4 @@
 O que faz um sistema de controle de versão? 
+
+Um sistema de controle de versão ajuda um time de desenvolvedores a gerenciar as versões da aplicação desenvolvida, facilitando 
+o desenvolvimento em times e fazendo backup dos dados.
