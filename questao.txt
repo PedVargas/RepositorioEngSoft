@@ -6,3 +6,5 @@ o desenvolvimento em times e fazendo backup dos dados.
 Que   benefícios   uma  ferramenta   de  controle   de   versão   pode   trazer   para   uma
 equipe de desenvolvimento?
 
+Facilita o trabalho em equipe, organiza a visualização de alterações, previne contra possíveis problemas como acidentes com as máquinas que poderiam
+fazer os arquivos serem perdidos.
